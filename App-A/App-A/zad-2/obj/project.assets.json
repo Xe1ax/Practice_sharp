@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practika\\App-A\\App-A\\zad-2\\zad_2.csproj",
+      "projectUniqueName": "D:\\Practice\\Practice_sharp\\App-A\\App-A\\zad-2\\zad_2.csproj",
       "projectName": "zad_2",
-      "projectPath": "D:\\Practika\\App-A\\App-A\\zad-2\\zad_2.csproj",
+      "projectPath": "D:\\Practice\\Practice_sharp\\App-A\\App-A\\zad-2\\zad_2.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Practika\\App-A\\App-A\\zad-2\\obj\\",
+      "outputPath": "D:\\Practice\\Practice_sharp\\App-A\\App-A\\zad-2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

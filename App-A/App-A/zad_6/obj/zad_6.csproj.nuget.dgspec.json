@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Practika\\App-A\\App-A\\zad_6\\zad_6.csproj": {}
+    "D:\\Practice\\Practice_sharp\\App-A\\App-A\\zad_6\\zad_6.csproj": {}
   },
   "projects": {
-    "D:\\Practika\\App-A\\App-A\\zad_6\\zad_6.csproj": {
+    "D:\\Practice\\Practice_sharp\\App-A\\App-A\\zad_6\\zad_6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Practika\\App-A\\App-A\\zad_6\\zad_6.csproj",
+        "projectUniqueName": "D:\\Practice\\Practice_sharp\\App-A\\App-A\\zad_6\\zad_6.csproj",
         "projectName": "zad_6",
-        "projectPath": "D:\\Practika\\App-A\\App-A\\zad_6\\zad_6.csproj",
+        "projectPath": "D:\\Practice\\Practice_sharp\\App-A\\App-A\\zad_6\\zad_6.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Practika\\App-A\\App-A\\zad_6\\obj\\",
+        "outputPath": "D:\\Practice\\Practice_sharp\\App-A\\App-A\\zad_6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
