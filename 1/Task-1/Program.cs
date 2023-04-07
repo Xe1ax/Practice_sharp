@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Введите число килограмм: ");
+            int m = int.Parse(Console.ReadLine());
+            Console.WriteLine("Тонн : {0} ", m / 1000);
         }
     }
 }
