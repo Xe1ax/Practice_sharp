@@ -1,6 +1,4 @@
-﻿using System.Runtime.CompilerServices;
-
-namespace task_2
+﻿namespace Task_2
 {
     internal class Program
     {

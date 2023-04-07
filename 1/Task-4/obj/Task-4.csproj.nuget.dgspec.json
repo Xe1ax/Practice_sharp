@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Practice\\Practice_sharp\\1\\task_2\\Task_2.csproj": {}
+    "D:\\Practice\\Practice_sharp\\1\\Task-4\\Task-4.csproj": {}
   },
   "projects": {
-    "D:\\Practice\\Practice_sharp\\1\\task_2\\Task_2.csproj": {
+    "D:\\Practice\\Practice_sharp\\1\\Task-4\\Task-4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Practice\\Practice_sharp\\1\\task_2\\Task_2.csproj",
-        "projectName": "Task_2",
-        "projectPath": "D:\\Practice\\Practice_sharp\\1\\task_2\\Task_2.csproj",
+        "projectUniqueName": "D:\\Practice\\Practice_sharp\\1\\Task-4\\Task-4.csproj",
+        "projectName": "Task-4",
+        "projectPath": "D:\\Practice\\Practice_sharp\\1\\Task-4\\Task-4.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Practice\\Practice_sharp\\1\\task_2\\obj\\",
+        "outputPath": "D:\\Practice\\Practice_sharp\\1\\Task-4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
