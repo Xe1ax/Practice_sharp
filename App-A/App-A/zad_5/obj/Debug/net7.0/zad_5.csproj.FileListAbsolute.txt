@@ -1,0 +1,15 @@
+D:\Practika\App-A\App-A\zad_5\bin\Debug\net7.0\zad_5.exe
+D:\Practika\App-A\App-A\zad_5\bin\Debug\net7.0\zad_5.deps.json
+D:\Practika\App-A\App-A\zad_5\bin\Debug\net7.0\zad_5.runtimeconfig.json
+D:\Practika\App-A\App-A\zad_5\bin\Debug\net7.0\zad_5.dll
+D:\Practika\App-A\App-A\zad_5\bin\Debug\net7.0\zad_5.pdb
+D:\Practika\App-A\App-A\zad_5\obj\Debug\net7.0\zad_5.csproj.AssemblyReference.cache
+D:\Practika\App-A\App-A\zad_5\obj\Debug\net7.0\zad_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practika\App-A\App-A\zad_5\obj\Debug\net7.0\zad_5.AssemblyInfoInputs.cache
+D:\Practika\App-A\App-A\zad_5\obj\Debug\net7.0\zad_5.AssemblyInfo.cs
+D:\Practika\App-A\App-A\zad_5\obj\Debug\net7.0\zad_5.csproj.CoreCompileInputs.cache
+D:\Practika\App-A\App-A\zad_5\obj\Debug\net7.0\zad_5.dll
+D:\Practika\App-A\App-A\zad_5\obj\Debug\net7.0\refint\zad_5.dll
+D:\Practika\App-A\App-A\zad_5\obj\Debug\net7.0\zad_5.pdb
+D:\Practika\App-A\App-A\zad_5\obj\Debug\net7.0\zad_5.genruntimeconfig.cache
+D:\Practika\App-A\App-A\zad_5\obj\Debug\net7.0\ref\zad_5.dll
