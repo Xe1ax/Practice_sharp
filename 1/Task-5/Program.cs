@@ -4,9 +4,10 @@
     {
         static void Main(string[] args)
         {
+            Console.Write("Введите число: ");
             double a = double.Parse(Console.ReadLine());
-            if (a % 2 == 0) Console.WriteLine("число четное");
-            else Console.WriteLine("число нечетное");
+            if (a % 2 == 0) Console.WriteLine("Число четное");
+            else Console.WriteLine("Число нечетное");
         }
     }
 }
