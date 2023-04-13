@@ -51,11 +51,11 @@ namespace Task_2
     class Personnal : Worker
     {
         #region Private fields
-        private int _dateOfEmployment;
+        private DateTime _dateOfEmployment;
         #endregion
 
         #region Public fields
-        public int DateOfEmployment
+        public DateTime DateOfEmployment
         {
             get { return _dateOfEmployment; }
             set { _dateOfEmployment = value; }
@@ -63,7 +63,7 @@ namespace Task_2
         #endregion
 
         #region Constructors
-        public Personnal(String Name, int Age, int DateOfEmployment) : base(Name, Age)
+        public Personnal(String Name, int Age, DateTime DateOfEmployment) : base(Name, Age)
         {
             _dateOfEmployment = DateOfEmployment;
         }
@@ -73,12 +73,7 @@ namespace Task_2
         public override String ToString()
         {
             return base.ToString() + $"; Дата приема на работу: {DateOfEmployment}";
-        }
-        public void DataInput()
-        {
-            Console.Write("Введите имя: ");
-            _dateOfEmployment = int.Parse(Console.ReadLine());
-        }
+        } 
         #endregion
     }
     class Engineer : Worker
