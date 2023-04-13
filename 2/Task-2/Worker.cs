@@ -84,11 +84,11 @@ namespace Task_2
     class Engineer : Worker
     {
         #region Private fields
-        private int _specialisation;
+        private String _specialisation;
         #endregion
 
         #region Public fields 
-        public int Specialisation
+        public String Specialisation
         {
             get { return _specialisation; }
             set { _specialisation = value; }
@@ -96,7 +96,7 @@ namespace Task_2
         #endregion
 
         #region Constructor
-        public Engineer(String Name, int Age, int Specialisation) : base(Name, Age)
+        public Engineer(String Name, int Age, String Specialisation) : base(Name, Age)
         {
             _specialisation = Specialisation;
         }
@@ -110,18 +110,18 @@ namespace Task_2
         public void DataInput()
         {
             Console.Write("Введите имя: ");
-            _specialisation = int.Parse(Console.ReadLine());
+            _specialisation = Console.ReadLine();
         }
         #endregion
     }
     class Administration : Worker
     {
         #region Private field
-        private int _appointment;
+        private String _appointment;
         #endregion
 
         #region Public fields
-        public int Appointment
+        public String Appointment
         {
             get { return _appointment; }
             set { _appointment = value; }
@@ -129,7 +129,7 @@ namespace Task_2
         #endregion
 
         #region Constructor
-        public Administration(string Name, int Age) : base(Name, Age)
+        public Administration(string Name, int Age, String Appointment) : base(Name, Age)
         {
             _appointment = Appointment;
         }
@@ -143,7 +143,7 @@ namespace Task_2
         public void DataInput()
         {
             Console.Write("Введите имя: ");
-            _appointment = int.Parse(Console.ReadLine());
+            _appointment = Console.ReadLine();
         }
         #endregion
     }
