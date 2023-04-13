@@ -81,6 +81,72 @@ namespace Task_2
         }
         #endregion
     }
+    class Engineer : Worker
+    {
+        #region Private fields
+        private int _specialisation;
+        #endregion
+
+        #region Public fields 
+        public int Specialisation
+        {
+            get { return _specialisation; }
+            set { _specialisation = value; }
+        }
+        #endregion
+
+        #region Constructor
+        public Engineer(String Name, int Age, int Specialisation) : base(Name, Age)
+        {
+            _specialisation = Specialisation;
+        }
+        #endregion
+
+        #region Methods
+        public override String ToString()
+        {
+            return base.ToString() + $"; Специализация: {Specialisation}";
+        }
+        public void DataInput()
+        {
+            Console.Write("Введите имя: ");
+            _specialisation = int.Parse(Console.ReadLine());
+        }
+        #endregion
+    }
+    class Administration : Worker
+    {
+        #region Private field
+        private int _appointment;
+        #endregion
+
+        #region Public fields
+        public int Appointment
+        {
+            get { return _appointment; }
+            set { _appointment = value; }
+        }
+        #endregion
+
+        #region Constructor
+        public Administration(string Name, int Age) : base(Name, Age)
+        {
+            _appointment = Appointment;
+        }
+        #endregion
+
+        #region Methods
+        public override String ToString()
+        {
+            return base.ToString() + $"; Назначение: {Appointment}";
+        }
+        public void DataInput()
+        {
+            Console.Write("Введите имя: ");
+            _appointment = int.Parse(Console.ReadLine());
+        }
+        #endregion
+    }
 
 }
 
