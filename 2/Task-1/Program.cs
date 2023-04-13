@@ -4,10 +4,10 @@
     {
         private static void Main(string[] args)
         {
-            Console.Write("Enter number a: ");
+            Console.Write("Введите число а: ");
             int numbA = int.Parse(Console.ReadLine());
 
-            Console.Write("Enter number b: ");
+            Console.Write("Введите число b: ");
             int numbB = int.Parse(Console.ReadLine());
 
             A a = new A(numbA, numbB);
