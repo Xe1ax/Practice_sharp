@@ -2,7 +2,7 @@
 {
     class Program
     {
-        static double f(double x, double a)
+        static double f(double x,double a)
         {
             double y;
             if (x < a) y = 0;
@@ -19,7 +19,7 @@
             Console.Write("Введите h : ");
             double h = double.Parse(Console.ReadLine());
             for (double i = a; i <= b; i += h)
-            Console.WriteLine($"f({i:f2}) = {f(i):f4}") ;
+            Console.WriteLine($"f({i:f2}) = {f(i,a):f4}") ;
         }
     }
 }
