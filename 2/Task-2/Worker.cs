@@ -51,11 +51,11 @@ namespace Task_2
     class Personnal : Worker
     {
         #region Private fields
-        private DateTime _dateOfEmployment;
+        private DateOnly _dateOfEmployment;
         #endregion
 
         #region Public fields
-        public DateTime DateOfEmployment
+        public DateOnly DateOfEmployment
         {
             get { return _dateOfEmployment; }
             set { _dateOfEmployment = value; }
@@ -63,7 +63,7 @@ namespace Task_2
         #endregion
 
         #region Constructors
-        public Personnal(String Name, int Age, DateTime DateOfEmployment) : base(Name, Age)
+        public Personnal(String Name, int Age, DateOnly DateOfEmployment) : base(Name, Age)
         {
             _dateOfEmployment = DateOfEmployment;
         }
