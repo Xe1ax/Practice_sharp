@@ -13,14 +13,14 @@
             var noteBookPublisher = new NoteBookPublisher();
             while (true)
             {
-                Console.WriteLine("Ввыбрать пункт:");
+                Console.WriteLine("Choose variant:");
                 Console.WriteLine();
-                Console.WriteLine("1.Добавление записи");
-                Console.WriteLine("2.Delete с записью");
-                Console.WriteLine("3.Поиск записи by number");
-                Console.WriteLine("4.Sort by fullName");
+                Console.WriteLine("1.Add note");
+                Console.WriteLine("2.Delete note");
+                Console.WriteLine("3.Search note(s) by number");
+                Console.WriteLine("4.Sort note(s) by fullName");
                 Console.WriteLine("5.Show all notes");
-                Console.WriteLine("6. Press CTRL+C to exit");
+                Console.WriteLine("6.Press CTRL+C to exit");
                 int a = Convert.ToInt32(Console.ReadLine());
 
                 switch (a)
@@ -46,10 +46,6 @@
                         if (notes != null)
                         {
                             noteBookPublisher.Publish(notes);
-
-                        }
-                        else
-                        {
 
                         }
                         break;

@@ -7,19 +7,19 @@
             return new List<Note> {
             new Note()
             {
-                FullName= "John Doe",
+                FullName= "Sauron",
                 BirthDate=DateOnly.FromDateTime(DateTime.Now),
                 PhoneNumber="+375(25)7654321"
             },
                 new Note()
             {
-                FullName= "JOhn Wick",
+                FullName= "Pavel Lord",
                 BirthDate=DateOnly.FromDateTime(DateTime.Now),
                 PhoneNumber="+375(29)1234567"
             },
                 new Note()
             {
-                FullName= "Johm Week",
+                FullName= "Donald Trump",
                 BirthDate=DateOnly.FromDateTime(DateTime.Now),
                 PhoneNumber="+375(33)9876543"
             },
