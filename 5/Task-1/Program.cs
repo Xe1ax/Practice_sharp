@@ -2,12 +2,20 @@
 
 namespace Task_1
 {
-    internal class Program
+    using System;
+
+    class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            int[] arr = {0,1,2,3,4,5,6,7,8,9,10};
-            Console.WriteLine(string.Join(", ", arr.Select((x, y) => (x % 2 != 0) ? y + 1 : 0).Where(x => x != 0).ToArray()));
+            int[] nums = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+            for (int i = 0; i < nums.Length; i++)
+            {
+                if (nums[i] % 2 != 0)
+                {
+                    Console.WriteLine($"Порядковый номер нечетного элемента: {i + 1} ");
+                }
+            }
         }
     }
 }
