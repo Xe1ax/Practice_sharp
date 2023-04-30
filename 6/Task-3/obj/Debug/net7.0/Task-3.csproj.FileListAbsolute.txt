@@ -1,0 +1,15 @@
+D:\Practice\Practice_sharp\6\Task-3\bin\Debug\net7.0\Task-3.exe
+D:\Practice\Practice_sharp\6\Task-3\bin\Debug\net7.0\Task-3.deps.json
+D:\Practice\Practice_sharp\6\Task-3\bin\Debug\net7.0\Task-3.runtimeconfig.json
+D:\Practice\Practice_sharp\6\Task-3\bin\Debug\net7.0\Task-3.dll
+D:\Practice\Practice_sharp\6\Task-3\bin\Debug\net7.0\Task-3.pdb
+D:\Practice\Practice_sharp\6\Task-3\obj\Debug\net7.0\Task-3.csproj.AssemblyReference.cache
+D:\Practice\Practice_sharp\6\Task-3\obj\Debug\net7.0\Task-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\Practice_sharp\6\Task-3\obj\Debug\net7.0\Task-3.AssemblyInfoInputs.cache
+D:\Practice\Practice_sharp\6\Task-3\obj\Debug\net7.0\Task-3.AssemblyInfo.cs
+D:\Practice\Practice_sharp\6\Task-3\obj\Debug\net7.0\Task-3.csproj.CoreCompileInputs.cache
+D:\Practice\Practice_sharp\6\Task-3\obj\Debug\net7.0\Task-3.dll
+D:\Practice\Practice_sharp\6\Task-3\obj\Debug\net7.0\refint\Task-3.dll
+D:\Practice\Practice_sharp\6\Task-3\obj\Debug\net7.0\Task-3.pdb
+D:\Practice\Practice_sharp\6\Task-3\obj\Debug\net7.0\Task-3.genruntimeconfig.cache
+D:\Practice\Practice_sharp\6\Task-3\obj\Debug\net7.0\ref\Task-3.dll
