@@ -13,7 +13,7 @@ namespace Task_1
             {
                 if (nums[i] % 2 != 0)
                 {
-                    Console.WriteLine($"Порядковый номер нечетного элемента: {i + 1} ");
+                    Console.WriteLine($"The sequence number of the odd element: {i + 1} ");
                 }
             }
         }
