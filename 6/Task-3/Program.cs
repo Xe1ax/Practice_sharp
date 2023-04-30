@@ -20,6 +20,11 @@
             sentence = string.Join(' ', words);
             Console.WriteLine("Первые две буквы первого слова удалены: " + sentence);
 
+            words[0] = lastWord;
+            words[words.Length - 1] = firstWord;
+            sentence = string.Join(" ", words);
+            Console.WriteLine("Замена первого и последнего слова: " + sentence);
+
             string gluedWords = (words[1] += words[2]);
             Console.WriteLine("Склееные 2 и 3 слова: " + gluedWords);
         }
