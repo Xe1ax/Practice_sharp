@@ -15,6 +15,9 @@
             Array.Reverse(thirdWord);
             Console.WriteLine("Третье слово в обратном порядке: " + new string(thirdWord));
 
+            string gluedWords = (words[1] + words[2]);
+            Console.WriteLine("Склееные 2 и 3 слова: " + gluedWords);
+
             string firstTwoLettersRemoved = firstWord.Substring(2);
             words[0] = firstTwoLettersRemoved;
             sentence = string.Join(' ', words);
@@ -25,8 +28,8 @@
             sentence = string.Join(' ', words).ToLower();
             Console.WriteLine("Замена первого и последнего слова: " + sentence);
 
-            string gluedWords = (words[1] + words[2]);
-            Console.WriteLine("Склееные 2 и 3 слова: " + gluedWords);
+            //string gluedWords = (words[1] + words[2]);
+            //Console.WriteLine("Склееные 2 и 3 слова: " + gluedWords);
         }
     }
 }
