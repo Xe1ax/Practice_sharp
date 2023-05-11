@@ -2,9 +2,12 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        enum Positions
         {
-            Console.WriteLine("Hello, World!");
+            Manager = 160,
+            Developer = 200,
+            Designer = 180,
+            QA = 170
         }
     }
 }
