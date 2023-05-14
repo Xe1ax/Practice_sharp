@@ -71,14 +71,14 @@
             vehicles[2] = new Truck("MAN", 5000, 25);
             vehicles[3] = new Truck("Volvo", 8000, 30);
             vehicles[4] = new Car("Mercedes", 240, 9);
-
+    
             int totalFuelConsumption = 0;
             foreach (Vehicle v in vehicles)
             {
                 Random random = new Random();
                 v.SetFuelLevel(45); 
                 v.ShowInfo();
-                totalFuelConsumption += v.CalculateFuelConsumption(10); 
+                totalFuelConsumption += v.CalculateFuelConsumption(3); 
                 Console.WriteLine();
             }
             Console.WriteLine("Total fuel consumption: {0} liters", totalFuelConsumption);
