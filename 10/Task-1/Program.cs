@@ -1,88 +1,85 @@
 ﻿namespace Task_1
 {
-
-    class A
+    class Book
     {
-        protected float a = 2.4F;
-        protected float b = 4.3F;
-        public float c
-        {
-            get
-            {
-                var per = a * 30 / b;
-                per %= 10;
-                return per;
-            }
-        }
-        public A()
-        {
+        private string title;  
+        private string author; 
+        private int pages; 
+        private double price;  
 
-        }
-        public A(float a1, float b1)
+        public Book(string title, string author, int pages, double price)
         {
-            a = a1;
-            b = b1;
+            this.title = title;
+            this.author = author;
+            this.pages = pages;
+            this.price = price;
+        }
+
+        public string Title
+        {
+            get { return title; }
+            set { title = value; }
+        }
+
+        public string Author
+        {
+            get { return author; }
+            set { author = value; }
+        }
+
+        public int Pages
+        {
+            get { return pages; }
+            set { pages = value; }
+        }
+
+        public double Price
+        {
+            get { return price; }
+            set { price = value; }
+        }
+
+        public virtual void Print()
+        {
+            Console.WriteLine("Название книги: " + title);
+            Console.WriteLine("Автор книги: " + author);
+            Console.WriteLine("Количество страниц: " + pages);
+            Console.WriteLine("Стоимость книги: " + price);
         }
     }
 
-    class B : A
+    class HardcoverBook : Book
     {
-        public float d;
-        public float c2
+        private string coverMaterial;  
+
+        public HardcoverBook(string title, string author, int pages, double price, string coverMaterial) : base(title, author, pages, price)
         {
-            get
-            {
-                float result = 0;
-                int i = (int)d;
-                while (i >= 0)
-                {
-                    if (i == 0)
-                    {
-                        result = (a + b) * 2;
-                        break;
-                    }
-                    else
-                    {
-                        var per = a * b;
-                        per %= 10;
-                        result = per;
-                        i--;
-                    }
-                }
-                return result;
-            }
+            this.coverMaterial = coverMaterial;
         }
-        public B(float a1, float b1) : base(a1, b1)
+
+        public string CoverMaterial
         {
-            a = a1;
-            b = b1;
-            d = 7.1F;
+            get { return coverMaterial; }
+            set { coverMaterial = value; }
         }
-        public B(float a1, float b1, float d1) : this(a1, b1)
+
+        public override void Print()
         {
-            a = a1;
-            b = b1;
-            d = d1;
+            base.Print();
+            Console.WriteLine("Материал обложки: " + coverMaterial);
+            Console.WriteLine("Стоимость с учетом надбавки за обложку: " + (Price + 50));
         }
     }
+
     class Program
     {
         static void Main(string[] args)
         {
-            var classA = new A();
-            Console.WriteLine(classA.c);
+            HardcoverBook book = new HardcoverBook("Мастер и Маргарита", "Михаил Булгаков", 480, 500, "Кожа");
 
-            var classA2 = new A(3.4F, 7.8F);
-            Console.WriteLine(classA2.c);
+            book.Print();
 
-            var classB = new B(3.4F, 7.8F);
-            Console.WriteLine(classB.c);
-            Console.WriteLine(classB.c2);
-
-            var classB2 = new B(3.4F, 7.8F, 0F);
-            Console.WriteLine(classB2.c);
-            Console.WriteLine(classB2.c2);
-
+            Console.ReadKey();
         }
     }
 }
