@@ -1,19 +1,47 @@
-﻿namespace Task_1
+﻿namespace task_1
 {
-    static void Main(string[] args)
+    internal class Program
     {
-        MyList<int> myList = new MyList<int>();
-
-        myList.Add(1);
-        myList.Add(2);
-        myList.Add(3);
-
-        Console.WriteLine("Count: " + myList.Count);
-
-        for (int i = 0; i < myList.Count; i++)
+        static void Main(string[] args)
         {
-            Console.WriteLine("Item at index {0}: {1}", i, myList[i]);
+            MyList<int> myList = new MyList<int>();
+            myList.Add(1);
+            myList.Add(2);
+            myList.Add(3);
+            Console.WriteLine("Count: " + myList.Count);
+            Console.WriteLine("Item at index 1: " + myList[1]);
+        }
+    }
+
+    class MyList<T>
+    {
+        private List<T> items;
+
+        public MyList()
+        {
+            items = new List<T>();
+        }
+
+        public void Add(T item)
+        {
+            items.Add(item);
+        }
+
+        public T this[int index]
+        {
+            get
+            {
+                return items[index];
+            }
+            set
+            {
+                items[index] = value;
+            }
+        }
+
+        public int Count
+        {
+            get { return items.Count; }
         }
     }
 }
-  

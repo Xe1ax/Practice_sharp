@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practice\\Practice_sharp\\15\\Task-1\\Task-1.csproj",
-      "projectName": "Task-1",
-      "projectPath": "D:\\Practice\\Practice_sharp\\15\\Task-1\\Task-1.csproj",
+      "projectUniqueName": "D:\\Practice\\Practice_sharp\\15\\task-1\\task-1.csproj",
+      "projectName": "task-1",
+      "projectPath": "D:\\Practice\\Practice_sharp\\15\\task-1\\task-1.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Practice\\Practice_sharp\\15\\Task-1\\obj\\",
+      "outputPath": "D:\\Practice\\Practice_sharp\\15\\task-1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
