@@ -5,12 +5,12 @@
         static void Main(string[] args)
         {
             Duck mallardDuck = new Duck(new FlyWithWings(), new Quack());
-            mallardDuck.PerformFly(); // I'm flying with wings!
-            mallardDuck.PerformQuack(); // Quack quack!
+            mallardDuck.PerformFly();
+            mallardDuck.PerformQuack();
             mallardDuck.SetFlyBehavior(new FlyNoWay());
-            mallardDuck.PerformFly(); // I can't fly.
+            mallardDuck.PerformFly();
             mallardDuck.SetQuackBehavior(new Squeak());
-            mallardDuck.PerformQuack(); // Squeak squeak!
+            mallardDuck.PerformQuack();
         }
     }
 }
