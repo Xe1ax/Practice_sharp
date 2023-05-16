@@ -4,6 +4,21 @@
     "D:\\Practice\\Practice_sharp\\17\\Task-1\\Task-1.csproj": {}
   },
   "projects": {
+    "D:\\Practice\\Practice_sharp\\17\\Task-1.2\\Task-1.2.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Practice\\Practice_sharp\\17\\Task-1.2\\Task-1.2.csproj",
+        "projectName": "Task-1.2",
+        "projectPath": "D:\\Practice\\Practice_sharp\\17\\Task-1.2\\Task-1.2.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "D:\\Practice\\Practice_sharp\\17\\Task-1\\Task-1.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +42,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Practice\\Practice_sharp\\17\\Task-1.2\\Task-1.2.csproj": {
+                "projectPath": "D:\\Practice\\Practice_sharp\\17\\Task-1.2\\Task-1.2.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

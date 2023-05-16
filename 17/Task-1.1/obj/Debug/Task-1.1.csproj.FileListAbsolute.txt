@@ -1,0 +1,10 @@
+D:\Practice\Practice_sharp\17\Task-1.1\bin\Debug\Task-1.1.dll
+D:\Practice\Practice_sharp\17\Task-1.1\bin\Debug\Task-1.1.pdb
+D:\Practice\Practice_sharp\17\Task-1.1\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\Practice\Practice_sharp\17\Task-1.1\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\Practice\Practice_sharp\17\Task-1.1\bin\Debug\Microsoft.Analytics.Types.dll
+D:\Practice\Practice_sharp\17\Task-1.1\obj\Debug\Task-1.1.csproj.AssemblyReference.cache
+D:\Practice\Practice_sharp\17\Task-1.1\obj\Debug\Task-1.1.csproj.CoreCompileInputs.cache
+D:\Practice\Practice_sharp\17\Task-1.1\obj\Debug\Task-1.1.csproj.CopyComplete
+D:\Practice\Practice_sharp\17\Task-1.1\obj\Debug\Task-1.1.dll
+D:\Practice\Practice_sharp\17\Task-1.1\obj\Debug\Task-1.1.pdb
