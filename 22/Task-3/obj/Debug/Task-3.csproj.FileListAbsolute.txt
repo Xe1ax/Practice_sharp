@@ -1,0 +1,10 @@
+D:\Practice\Practice_sharp\22\Task-3\bin\Debug\Task-3.exe.config
+D:\Practice\Practice_sharp\22\Task-3\bin\Debug\Task-3.exe
+D:\Practice\Practice_sharp\22\Task-3\bin\Debug\Task-3.pdb
+D:\Practice\Practice_sharp\22\Task-3\obj\Debug\Task-3.csproj.AssemblyReference.cache
+D:\Practice\Practice_sharp\22\Task-3\obj\Debug\Task-3.csproj.SuggestedBindingRedirects.cache
+D:\Practice\Practice_sharp\22\Task-3\obj\Debug\Task_3.Properties.Resources.resources
+D:\Practice\Practice_sharp\22\Task-3\obj\Debug\Task-3.csproj.GenerateResource.cache
+D:\Practice\Practice_sharp\22\Task-3\obj\Debug\Task-3.csproj.CoreCompileInputs.cache
+D:\Practice\Practice_sharp\22\Task-3\obj\Debug\Task-3.exe
+D:\Practice\Practice_sharp\22\Task-3\obj\Debug\Task-3.pdb
