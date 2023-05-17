@@ -1,0 +1,15 @@
+E:\Учёба\Практика по пр\Les27\XMLcreate\bin\Debug\net6.0\XMLcreate.exe
+E:\Учёба\Практика по пр\Les27\XMLcreate\bin\Debug\net6.0\XMLcreate.deps.json
+E:\Учёба\Практика по пр\Les27\XMLcreate\bin\Debug\net6.0\XMLcreate.runtimeconfig.json
+E:\Учёба\Практика по пр\Les27\XMLcreate\bin\Debug\net6.0\XMLcreate.dll
+E:\Учёба\Практика по пр\Les27\XMLcreate\bin\Debug\net6.0\XMLcreate.pdb
+E:\Учёба\Практика по пр\Les27\XMLcreate\obj\Debug\net6.0\XMLcreate.csproj.AssemblyReference.cache
+E:\Учёба\Практика по пр\Les27\XMLcreate\obj\Debug\net6.0\XMLcreate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Практика по пр\Les27\XMLcreate\obj\Debug\net6.0\XMLcreate.AssemblyInfoInputs.cache
+E:\Учёба\Практика по пр\Les27\XMLcreate\obj\Debug\net6.0\XMLcreate.AssemblyInfo.cs
+E:\Учёба\Практика по пр\Les27\XMLcreate\obj\Debug\net6.0\XMLcreate.csproj.CoreCompileInputs.cache
+E:\Учёба\Практика по пр\Les27\XMLcreate\obj\Debug\net6.0\XMLcreate.dll
+E:\Учёба\Практика по пр\Les27\XMLcreate\obj\Debug\net6.0\refint\XMLcreate.dll
+E:\Учёба\Практика по пр\Les27\XMLcreate\obj\Debug\net6.0\XMLcreate.pdb
+E:\Учёба\Практика по пр\Les27\XMLcreate\obj\Debug\net6.0\XMLcreate.genruntimeconfig.cache
+E:\Учёба\Практика по пр\Les27\XMLcreate\obj\Debug\net6.0\ref\XMLcreate.dll

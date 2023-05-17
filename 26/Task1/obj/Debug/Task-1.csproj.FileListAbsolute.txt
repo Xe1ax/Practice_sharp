@@ -1,0 +1,17 @@
+D:\Practice\Practice_sharp\26\Task1\bin\Debug\Task1.exe.config
+D:\Practice\Practice_sharp\26\Task1\bin\Debug\Task1.exe
+D:\Practice\Practice_sharp\26\Task1\bin\Debug\Task1.pdb
+D:\Practice\Practice_sharp\26\Task1\obj\Debug\Task-1.csproj.AssemblyReference.cache
+D:\Practice\Practice_sharp\26\Task1\obj\Debug\Task-1.csproj.SuggestedBindingRedirects.cache
+D:\Practice\Practice_sharp\26\Task1\obj\Debug\AddItemWindow.baml
+D:\Practice\Practice_sharp\26\Task1\obj\Debug\MainWindow.baml
+D:\Practice\Practice_sharp\26\Task1\obj\Debug\AddItemWindow.g.cs
+D:\Practice\Practice_sharp\26\Task1\obj\Debug\MainWindow.g.cs
+D:\Practice\Practice_sharp\26\Task1\obj\Debug\App.g.cs
+D:\Practice\Practice_sharp\26\Task1\obj\Debug\Task1_MarkupCompile.cache
+D:\Practice\Practice_sharp\26\Task1\obj\Debug\Task1.g.resources
+D:\Practice\Practice_sharp\26\Task1\obj\Debug\Task1.Properties.Resources.resources
+D:\Practice\Practice_sharp\26\Task1\obj\Debug\Task-1.csproj.GenerateResource.cache
+D:\Practice\Practice_sharp\26\Task1\obj\Debug\Task-1.csproj.CoreCompileInputs.cache
+D:\Practice\Practice_sharp\26\Task1\obj\Debug\Task1.exe
+D:\Practice\Practice_sharp\26\Task1\obj\Debug\Task1.pdb

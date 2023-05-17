@@ -49,11 +49,10 @@ namespace task1
 
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
-            string filePath = "D:\\Колледж\\Справочка.docx"; // Укажите путь к файлу Word
+            string filePath = @"C:\\Users\\Admin\\Desktop\\концепты.docx"; 
 
             try
             {
-                // Запуск приложения Word и открытие файла
                 System.Diagnostics.Process.Start("WINWORD.EXE", filePath);
             }
             catch (Exception ex)
