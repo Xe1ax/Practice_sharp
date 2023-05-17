@@ -1,0 +1,54 @@
+﻿<Window x:Class="Task3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Shape Buttons" Width="500" Height="300">
+    <Grid>
+        <Button x:Name="TriangleButton" Click="TriangleButton_Click" Width="100" Height="100" Margin="0,42,200,42">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Path Width="80" Height="80" Stretch="Uniform" Fill="Blue">
+                        <Path.Data>
+                            <PathGeometry>
+                                <PathFigure StartPoint="40,0">
+                                    <LineSegment Point="80,80" />
+                                    <LineSegment Point="0,80" />
+                                    <LineSegment Point="40,0" />
+                                </PathFigure>
+                            </PathGeometry>
+                        </Path.Data>
+                    </Path>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="CircleButton" Click="CircleButton_Click" Width="100" Height="100" Margin="100,42,100,42">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Ellipse Width="80" Height="80" Fill="Green" />
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="PyramidButton" Click="PyramidButton_Click" Width="100" Height="100" Margin="205,53,-5,31">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Path Fill="Red">
+                            <Path.Data>
+                                <PathGeometry>
+                                    <PathFigure StartPoint="40,0">
+                                        <LineSegment Point="80,80" />
+                                        <LineSegment Point="0,80" />
+                                        <LineSegment Point="40,0" />
+                                    </PathFigure>
+                                </PathGeometry>
+                            </Path.Data>
+                        </Path>
+                        <Polygon Points="0,80 40,0 60,80"
+                                 Fill="Yellow" />
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+    </Grid>
+</Window>
+
+
