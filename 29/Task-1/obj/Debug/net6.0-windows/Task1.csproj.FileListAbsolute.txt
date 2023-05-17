@@ -1,0 +1,45 @@
+E:\Учёба\Практика по пр\Les30\Task1\bin\Debug\net6.0-windows\Task1.exe
+E:\Учёба\Практика по пр\Les30\Task1\bin\Debug\net6.0-windows\Task1.deps.json
+E:\Учёба\Практика по пр\Les30\Task1\bin\Debug\net6.0-windows\Task1.runtimeconfig.json
+E:\Учёба\Практика по пр\Les30\Task1\bin\Debug\net6.0-windows\Task1.dll
+E:\Учёба\Практика по пр\Les30\Task1\bin\Debug\net6.0-windows\Task1.pdb
+E:\Учёба\Практика по пр\Les30\Task1\obj\Debug\net6.0-windows\Task1.csproj.AssemblyReference.cache
+E:\Учёба\Практика по пр\Les30\Task1\obj\Debug\net6.0-windows\Task1.Form1.resources
+E:\Учёба\Практика по пр\Les30\Task1\obj\Debug\net6.0-windows\Task1.csproj.GenerateResource.cache
+E:\Учёба\Практика по пр\Les30\Task1\obj\Debug\net6.0-windows\Task1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Практика по пр\Les30\Task1\obj\Debug\net6.0-windows\Task1.AssemblyInfoInputs.cache
+E:\Учёба\Практика по пр\Les30\Task1\obj\Debug\net6.0-windows\Task1.AssemblyInfo.cs
+E:\Учёба\Практика по пр\Les30\Task1\obj\Debug\net6.0-windows\Task1.csproj.CoreCompileInputs.cache
+E:\Учёба\Практика по пр\Les30\Task1\obj\Debug\net6.0-windows\Task1.dll
+E:\Учёба\Практика по пр\Les30\Task1\obj\Debug\net6.0-windows\refint\Task1.dll
+E:\Учёба\Практика по пр\Les30\Task1\obj\Debug\net6.0-windows\Task1.pdb
+E:\Учёба\Практика по пр\Les30\Task1\obj\Debug\net6.0-windows\Task1.genruntimeconfig.cache
+E:\Учёба\Практика по пр\Les30\Task1\obj\Debug\net6.0-windows\ref\Task1.dll
+D:\Колледж\Практика С#\1 практика\Les30\Les30\Task1\bin\Debug\net6.0-windows\Task1.exe
+D:\Колледж\Практика С#\1 практика\Les30\Les30\Task1\bin\Debug\net6.0-windows\Task1.deps.json
+D:\Колледж\Практика С#\1 практика\Les30\Les30\Task1\bin\Debug\net6.0-windows\Task1.runtimeconfig.json
+D:\Колледж\Практика С#\1 практика\Les30\Les30\Task1\bin\Debug\net6.0-windows\Task1.dll
+D:\Колледж\Практика С#\1 практика\Les30\Les30\Task1\bin\Debug\net6.0-windows\Task1.pdb
+D:\Колледж\Практика С#\1 практика\Les30\Les30\Task1\obj\Debug\net6.0-windows\Task1.csproj.AssemblyReference.cache
+D:\Колледж\Практика С#\1 практика\Les30\Les30\Task1\obj\Debug\net6.0-windows\Task1.Form1.resources
+D:\Колледж\Практика С#\1 практика\Les30\Les30\Task1\obj\Debug\net6.0-windows\Task1.csproj.GenerateResource.cache
+D:\Колледж\Практика С#\1 практика\Les30\Les30\Task1\obj\Debug\net6.0-windows\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Колледж\Практика С#\1 практика\Les30\Les30\Task1\obj\Debug\net6.0-windows\Task1.AssemblyInfoInputs.cache
+D:\Колледж\Практика С#\1 практика\Les30\Les30\Task1\obj\Debug\net6.0-windows\Task1.AssemblyInfo.cs
+D:\Колледж\Практика С#\1 практика\Les30\Les30\Task1\obj\Debug\net6.0-windows\Task1.csproj.CoreCompileInputs.cache
+D:\Колледж\Практика С#\1 практика\Les30\Les30\Task1\obj\Debug\net6.0-windows\Task1.dll
+D:\Колледж\Практика С#\1 практика\Les30\Les30\Task1\obj\Debug\net6.0-windows\refint\Task1.dll
+D:\Колледж\Практика С#\1 практика\Les30\Les30\Task1\obj\Debug\net6.0-windows\Task1.pdb
+D:\Колледж\Практика С#\1 практика\Les30\Les30\Task1\obj\Debug\net6.0-windows\Task1.genruntimeconfig.cache
+D:\Колледж\Практика С#\1 практика\Les30\Les30\Task1\obj\Debug\net6.0-windows\ref\Task1.dll
+D:\Practice\Practice_sharp\29\Task-1\obj\Debug\net6.0-windows\Task1.csproj.AssemblyReference.cache
+D:\Practice\Practice_sharp\29\Task-1\obj\Debug\net6.0-windows\Task1.Form1.resources
+D:\Practice\Practice_sharp\29\Task-1\obj\Debug\net6.0-windows\Task1.Properties.Resources.resources
+D:\Practice\Practice_sharp\29\Task-1\obj\Debug\net6.0-windows\Task1.csproj.GenerateResource.cache
+D:\Practice\Practice_sharp\29\Task-1\obj\Debug\net6.0-windows\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\Practice_sharp\29\Task-1\obj\Debug\net6.0-windows\Task1.AssemblyInfoInputs.cache
+D:\Practice\Practice_sharp\29\Task-1\obj\Debug\net6.0-windows\Task1.AssemblyInfo.cs
+D:\Practice\Practice_sharp\29\Task-1\obj\Debug\net6.0-windows\Task1.csproj.CoreCompileInputs.cache
+D:\Practice\Practice_sharp\29\Task-1\obj\Debug\net6.0-windows\Task1.dll
+D:\Practice\Practice_sharp\29\Task-1\obj\Debug\net6.0-windows\refint\Task1.dll
+D:\Practice\Practice_sharp\29\Task-1\obj\Debug\net6.0-windows\Task1.pdb

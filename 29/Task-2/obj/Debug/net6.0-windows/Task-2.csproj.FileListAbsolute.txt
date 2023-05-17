@@ -1,0 +1,8 @@
+D:\Practice\Practice_sharp\29\Task-2\obj\Debug\net6.0-windows\Task-2.csproj.AssemblyReference.cache
+D:\Practice\Practice_sharp\29\Task-2\obj\Debug\net6.0-windows\Task2.Form1.resources
+D:\Practice\Practice_sharp\29\Task-2\obj\Debug\net6.0-windows\Task-2.Properties.Resources.resources
+D:\Practice\Practice_sharp\29\Task-2\obj\Debug\net6.0-windows\Task-2.csproj.GenerateResource.cache
+D:\Practice\Practice_sharp\29\Task-2\obj\Debug\net6.0-windows\Task-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\Practice_sharp\29\Task-2\obj\Debug\net6.0-windows\Task-2.AssemblyInfoInputs.cache
+D:\Practice\Practice_sharp\29\Task-2\obj\Debug\net6.0-windows\Task-2.AssemblyInfo.cs
+D:\Practice\Practice_sharp\29\Task-2\obj\Debug\net6.0-windows\Task-2.csproj.CoreCompileInputs.cache
