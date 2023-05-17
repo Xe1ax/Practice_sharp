@@ -1,0 +1,12 @@
+D:\Колледж\Практика С#\1 практика\pract25z2\task2\bin\Debug\task2.exe.config
+D:\Колледж\Практика С#\1 практика\pract25z2\task2\bin\Debug\task2.exe
+D:\Колледж\Практика С#\1 практика\pract25z2\task2\bin\Debug\task2.pdb
+D:\Колледж\Практика С#\1 практика\pract25z2\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+D:\Колледж\Практика С#\1 практика\pract25z2\task2\obj\Debug\task2.csproj.SuggestedBindingRedirects.cache
+D:\Колледж\Практика С#\1 практика\pract25z2\task2\obj\Debug\task2.Form1.resources
+D:\Колледж\Практика С#\1 практика\pract25z2\task2\obj\Debug\task2.Properties.Resources.resources
+D:\Колледж\Практика С#\1 практика\pract25z2\task2\obj\Debug\task2.UserControlTimer2.resources
+D:\Колледж\Практика С#\1 практика\pract25z2\task2\obj\Debug\task2.csproj.GenerateResource.cache
+D:\Колледж\Практика С#\1 практика\pract25z2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+D:\Колледж\Практика С#\1 практика\pract25z2\task2\obj\Debug\task2.exe
+D:\Колледж\Практика С#\1 практика\pract25z2\task2\obj\Debug\task2.pdb

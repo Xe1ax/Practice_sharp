@@ -1,0 +1,12 @@
+D:\Колледж\Практика С#\1 практика\pract25z1\task1\bin\Debug\task1.exe.config
+D:\Колледж\Практика С#\1 практика\pract25z1\task1\bin\Debug\task1.exe
+D:\Колледж\Практика С#\1 практика\pract25z1\task1\bin\Debug\task1.pdb
+D:\Колледж\Практика С#\1 практика\pract25z1\task1\obj\Debug\task1.csproj.AssemblyReference.cache
+D:\Колледж\Практика С#\1 практика\pract25z1\task1\obj\Debug\task1.csproj.SuggestedBindingRedirects.cache
+D:\Колледж\Практика С#\1 практика\pract25z1\task1\obj\Debug\task1.ParentForm.resources
+D:\Колледж\Практика С#\1 практика\pract25z1\task1\obj\Debug\task1.ChildForm.resources
+D:\Колледж\Практика С#\1 практика\pract25z1\task1\obj\Debug\task1.Properties.Resources.resources
+D:\Колледж\Практика С#\1 практика\pract25z1\task1\obj\Debug\task1.csproj.GenerateResource.cache
+D:\Колледж\Практика С#\1 практика\pract25z1\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+D:\Колледж\Практика С#\1 практика\pract25z1\task1\obj\Debug\task1.exe
+D:\Колледж\Практика С#\1 практика\pract25z1\task1\obj\Debug\task1.pdb
